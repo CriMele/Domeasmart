@@ -226,7 +226,7 @@ The source code may be viewed for reference, but may not be copied,
 modified, redistributed, or used commercially without permission.
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Cristian Mele**
 
