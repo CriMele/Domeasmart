@@ -170,20 +170,17 @@ http://<server-address>:<port>
 Screenshots of the application can be added here.
 
 ### Home
-
-![Home Screen](screenshots/home.png)
-
-### Sensors
-
-![Sensors Screen](screenshots/sensors.png)
+<img src="docs/screenshots/home.png" width="150"> <img src="docs/screenshots/home2.png" width="150">
 
 ### Rooms
 
-![Rooms Screen](screenshots/rooms.png)
+<img src="docs/screenshots/stanze.png" width="150">
+
+### Camera & Streaming
+<img src="docs/screenshots/camera.png" width="150">
 
 ### Settings
-
-![Settings Screen](screenshots/settings.png)
+<img src="docs/screenshots/settings.png" width="150">
 
 ---
 
